@@ -1,0 +1,140 @@
+[
+  {
+    "id": "PROD-101",
+    "name": "NovaPulse Pro Wireless Noise-Cancelling Headphones",
+    "category": "Audio & Electronics",
+    "price": 149.99,
+    "originalPrice": 199.99,
+    "rating": 4.8,
+    "reviewCount": 342,
+    "stock": 14,
+    "status": "In Stock",
+    "sku": "NP-NC-01",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80",
+    "description": "Premium active noise cancellation with 40-hour battery life, spatial audio, and ultra-plush memory foam earcups.",
+    "specifications": {
+      "Battery Life": "40 Hours (ANC on)",
+      "Bluetooth": "Version 5.3",
+      "Charging": "USB-C Fast Charge (10 min = 4 hrs)",
+      "Weight": "250g",
+      "Warranty": "1 Year Manufacturer Replacement"
+    },
+    "warehouse": "Dallas Hub, TX",
+    "deliveryEstimate": "2-3 business days"
+  },
+  {
+    "id": "PROD-102",
+    "name": "Aura Ultra Smartwatch Series 6 (OLED)",
+    "category": "Wearables",
+    "price": 229.00,
+    "originalPrice": 279.00,
+    "rating": 4.7,
+    "reviewCount": 512,
+    "stock": 5,
+    "status": "Low Stock",
+    "sku": "AU-SW-06",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80",
+    "description": "Always-on sapphire crystal display, ECG, blood oxygen tracking, GPS navigation, and 50m water resistance.",
+    "specifications": {
+      "Display": "1.92-inch AMOLED 1000 nits",
+      "Battery": "Up to 3 days normal use",
+      "Sensors": "Heart Rate, SpO2, Temperature, ECG",
+      "Water Resistance": "5ATM / 50m",
+      "Warranty": "2 Years Official Warranty"
+    },
+    "warehouse": "Chicago Distribution Center, IL",
+    "deliveryEstimate": "1-2 business days"
+  },
+  {
+    "id": "PROD-103",
+    "name": "Zenith Slim 14 Ultra-Thin Laptop",
+    "category": "Computers",
+    "price": 899.99,
+    "originalPrice": 1049.99,
+    "rating": 4.9,
+    "reviewCount": 189,
+    "stock": 8,
+    "status": "In Stock",
+    "sku": "ZN-NB-14",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+    "description": "Intel Core i7 13th Gen, 16GB LPDDR5 RAM, 1TB NVMe SSD, 2.8K 90Hz OLED screen in an aerospace-grade aluminum chassis.",
+    "specifications": {
+      "Processor": "Intel Core i7-1360P 12-Core",
+      "RAM": "16GB LPDDR5",
+      "Storage": "1TB Gen4 SSD",
+      "Screen": "14-inch 2.8K OLED 400 nits",
+      "Warranty": "2 Years Comprehensive On-Site"
+    },
+    "warehouse": "Atlanta Hub, GA",
+    "deliveryEstimate": "2-4 business days"
+  },
+  {
+    "id": "PROD-104",
+    "name": "Vortex Flow Ergonomic Mechanical Keyboard",
+    "category": "Peripherals",
+    "price": 89.50,
+    "originalPrice": 119.00,
+    "rating": 4.6,
+    "reviewCount": 275,
+    "stock": 0,
+    "status": "Out of Stock",
+    "sku": "VX-KB-87",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80",
+    "description": "Hot-swappable custom linear red switches, sound-dampening silicone gasket mount, per-key RGB lighting, and wireless tri-mode.",
+    "specifications": {
+      "Switches": "Pre-lubed Red Linear Switches",
+      "Connectivity": "Bluetooth 5.1 / 2.4Ghz / USB-C",
+      "Battery": "4000 mAh rechargeable",
+      "Keycaps": "Double-shot PBT Cherry profile",
+      "Warranty": "1 Year Replacement"
+    },
+    "warehouse": "Expected restock in 4 days",
+    "deliveryEstimate": "Restocking soon"
+  },
+  {
+    "id": "PROD-105",
+    "name": "Apex SoundBar 300W with Wireless Subwoofer",
+    "category": "Home Audio",
+    "price": 179.99,
+    "originalPrice": 220.00,
+    "rating": 4.5,
+    "reviewCount": 160,
+    "stock": 19,
+    "status": "In Stock",
+    "sku": "AP-SB-300",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=600&auto=format&fit=crop&q=80",
+    "description": "Immersive 3.1 channel Dolby Audio soundbar with dedicated wireless deep-bass subwoofer and eARC HDMI connection.",
+    "specifications": {
+      "Total Power": "300 Watts Peak",
+      "Channels": "3.1 with Center Dialogue Enhancer",
+      "Inputs": "HDMI eARC, Optical, AUX, Bluetooth",
+      "Subwoofer": "6.5-inch downward firing",
+      "Warranty": "1 Year Standard Warranty"
+    },
+    "warehouse": "New Jersey Port Facility, NJ",
+    "deliveryEstimate": "2-3 business days"
+  },
+  {
+    "id": "PROD-106",
+    "name": "HyperCharge 65W GaN Dual USB-C Fast Charger",
+    "category": "Accessories",
+    "price": 34.99,
+    "originalPrice": 45.00,
+    "rating": 4.9,
+    "reviewCount": 890,
+    "stock": 42,
+    "status": "In Stock",
+    "sku": "HC-GAN-65",
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=600&auto=format&fit=crop&q=80",
+    "description": "Gallium Nitride (GaN) high-speed dual port adapter capable of powering laptops, tablets, and phones simultaneously.",
+    "specifications": {
+      "Power": "65W Max Output (PD 3.0 / PPS / QC 4+)",
+      "Ports": "2x USB-C + 1x USB-A",
+      "Safety": "Active temperature & surge protection",
+      "Size": "Foldable compact plug",
+      "Warranty": "18 Months Replacement"
+    },
+    "warehouse": "Dallas Hub, TX",
+    "deliveryEstimate": "1-2 business days"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "faq-1",
+    "category": "Order Tracking & Delivery",
+    "question": "How do I track my order in real-time?",
+    "answer": "You can track your package directly by visiting the 'Track Order' page or by asking our AI Chatbot 'Where is my order?'. Simply provide your Order ID (e.g., ORD-8821) or log in to view live GPS status and courier dispatch logs.",
+    "keywords": ["track", "order", "status", "where is", "tracking", "courier", "package", "dispatch"]
+  },
+  {
+    "id": "faq-2",
+    "category": "Order Tracking & Delivery",
+    "question": "What is the standard delivery timeframe?",
+    "answer": "Standard shipping usually takes 2-4 business days depending on your postal zip code. Express and Priority shipments arrive within 1-2 business days. You can check the estimated delivery date on the product page before placing your order.",
+    "keywords": ["timeframe", "days", "standard", "express", "delivery time", "how long", "speed"]
+  },
+  {
+    "id": "faq-3",
+    "category": "Cancellations & Returns",
+    "question": "Can I cancel my order after it has been placed?",
+    "answer": "Yes! You can cancel any order free of charge as long as its status is 'Processing' or 'Confirmed' before it ships. Once an order is 'Shipped' or 'In Transit', it cannot be cancelled, but you can initiate a return or refuse delivery upon doorstep arrival.",
+    "keywords": ["cancel", "cancellation", "stop order", "modify order", "can i cancel", "abort"]
+  },
+  {
+    "id": "faq-4",
+    "category": "Cancellations & Returns",
+    "question": "What is your return policy and time window?",
+    "answer": "We offer a 14-day hassle-free return window starting from the day your package is marked as Delivered. Items must be in original condition with tags, boxes, and all bundled accessories. Doorstep pickup is completely free.",
+    "keywords": ["return", "return policy", "window", "14 days", "how to return", "exchange", "doorstep pickup"]
+  },
+  {
+    "id": "faq-5",
+    "category": "Refunds",
+    "question": "How long does it take to receive my refund?",
+    "answer": "Once the returned item is picked up and passes our warehouse verification (usually within 24-48 hours), your refund is immediately initiated. Credit Card/Debit Card refunds reflect in 3-5 business days; UPI and PayPal refunds reflect within 24 hours.",
+    "keywords": ["refund", "money back", "refund time", "credit", "bank transfer", "when will i get money"]
+  },
+  {
+    "id": "faq-6",
+    "category": "Refunds",
+    "question": "Where does the refunded money go?",
+    "answer": "Refunds are automatically issued back to your original payment method (e.g., the specific card or PayPal account used). For Cash On Delivery (COD) orders, our chatbot can collect your preferred bank account or UPI ID for direct transfer.",
+    "keywords": ["refund destination", "bank", "card", "original payment", "cod refund", "where refund"]
+  },
+  {
+    "id": "faq-7",
+    "category": "Payments",
+    "question": "What payment methods are supported?",
+    "answer": "We accept all major Credit/Debit Cards (Visa, MasterCard, American Express), PayPal, Apple Pay, Google Pay, UPI, Net Banking, and Cash On Delivery (COD) for eligible pin codes.",
+    "keywords": ["payment", "methods", "credit card", "paypal", "apple pay", "upi", "cod", "cash on delivery"]
+  },
+  {
+    "id": "faq-8",
+    "category": "Payments",
+    "question": "My payment failed but amount was deducted. What should I do?",
+    "answer": "Do not worry! If an order was not generated, the banking network will automatically reverse the transaction and credit your funds back within 2-4 business days. You can also provide the transaction reference ID in our AI Chatbot to verify immediately.",
+    "keywords": ["payment failed", "debited", "deducted", "failed transaction", "payment error", "charged twice"]
+  },
+  {
+    "id": "faq-9",
+    "category": "Products & Availability",
+    "question": "How do I know if an item is in stock?",
+    "answer": "Every product details page displays live real-time warehouse inventory indicators: 'In Stock', 'Low Stock (Only X left)', or 'Out of Stock'. You can also ask our AI chatbot (e.g. 'Is the NovaPulse headphone available?') for instant verification.",
+    "keywords": ["stock", "availability", "available", "in stock", "restock", "inventory"]
+  },
+  {
+    "id": "faq-10",
+    "category": "Account & Security",
+    "question": "Do I need an account to track orders or chat with support?",
+    "answer": "You can track orders as a guest using your Order ID and phone/email, and ask general questions to the AI Chatbot anytime. However, logging in gives you one-click access to your full dashboard, instant returns, and saved addresses.",
+    "keywords": ["account", "guest", "login required", "dashboard", "profile"]
+  }
+]
