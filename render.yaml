@@ -16,7 +16,6 @@ services:
           type: web
           name: ai-ecommerce-chatbot-ai
           property: host
-          envVarKey: PYTHON_AI_URL
 
   - type: web
     name: ai-ecommerce-chatbot-ai
@@ -50,4 +49,3 @@ services:
           type: web
           name: ai-ecommerce-chatbot-backend
           property: host
-          envVarKey: VITE_API_URL
